@@ -5528,7 +5528,8 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-	name: "libmpbase",
+	name: "libmpbase_vendor",
+	stem: "libmpbase",
 	owner: "xiaomi",
 	strip: {
 		none: true,
@@ -8724,8 +8725,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8737,8 +8738,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8750,8 +8751,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8763,8 +8764,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8776,8 +8777,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8789,8 +8790,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8802,8 +8803,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8815,8 +8816,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
@@ -8828,8 +8829,8 @@ cc_prebuilt_binary {
 	strip: {
 		none: true,
 	},
-	prefer: true,
 	relative_install_path: "hw",
+	prefer: true,
 	soc_specific: true,
 }
 
