@@ -375,6 +375,7 @@ PRODUCT_PACKAGES += \
     libsns_device_mode_skel \
     libsns_low_lat_stream_skel \
     libasphere \
+    libmisoundfx \
     libshoebox \
     com.qti.sensor.ofilm_hi259 \
     com.qti.sensor.ofilm_imx682 \
